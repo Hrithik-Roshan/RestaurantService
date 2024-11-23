@@ -25,9 +25,6 @@ Before running the project locally, ensure the following software is installed:
 - MySQL Server (for database)
 - Postman (optional, for testing APIs)
 - Git (to clone the repository)
-- Getting Started
-- Follow these steps to set up and run the project locally.
-
 
 ## Steps to Setup and Run locally 
 
